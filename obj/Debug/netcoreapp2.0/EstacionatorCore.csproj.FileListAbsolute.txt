@@ -1,0 +1,10 @@
+C:\Users\Renato.SoulIt\Documents\Projetos\EstacionatorCore\bin\Debug\netcoreapp2.0\EstacionatorCore.deps.json
+C:\Users\Renato.SoulIt\Documents\Projetos\EstacionatorCore\bin\Debug\netcoreapp2.0\EstacionatorCore.runtimeconfig.json
+C:\Users\Renato.SoulIt\Documents\Projetos\EstacionatorCore\bin\Debug\netcoreapp2.0\EstacionatorCore.runtimeconfig.dev.json
+C:\Users\Renato.SoulIt\Documents\Projetos\EstacionatorCore\bin\Debug\netcoreapp2.0\EstacionatorCore.dll
+C:\Users\Renato.SoulIt\Documents\Projetos\EstacionatorCore\bin\Debug\netcoreapp2.0\EstacionatorCore.pdb
+C:\Users\Renato.SoulIt\Documents\Projetos\EstacionatorCore\obj\Debug\netcoreapp2.0\EstacionatorCore.csproj.CoreCompileInputs.cache
+C:\Users\Renato.SoulIt\Documents\Projetos\EstacionatorCore\obj\Debug\netcoreapp2.0\EstacionatorCore.AssemblyInfoInputs.cache
+C:\Users\Renato.SoulIt\Documents\Projetos\EstacionatorCore\obj\Debug\netcoreapp2.0\EstacionatorCore.AssemblyInfo.cs
+C:\Users\Renato.SoulIt\Documents\Projetos\EstacionatorCore\obj\Debug\netcoreapp2.0\EstacionatorCore.dll
+C:\Users\Renato.SoulIt\Documents\Projetos\EstacionatorCore\obj\Debug\netcoreapp2.0\EstacionatorCore.pdb
